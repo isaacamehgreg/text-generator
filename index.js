@@ -1,0 +1,1 @@
+const RandomTextGenerator = require("random-text-generator");
